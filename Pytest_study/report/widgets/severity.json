@@ -1,0 +1,31 @@
+[ {
+  "uid" : "bc4e15006b4eb4e9",
+  "name" : "test_01_baili",
+  "time" : {
+    "start" : 1652152308937,
+    "stop" : 1652152308938,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8779609e9a3f1702",
+  "name" : "test_01_weiwei",
+  "time" : {
+    "start" : 1652152308971,
+    "stop" : 1652152308972,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9713e3028a01e54",
+  "name" : "test_02_xingyao",
+  "time" : {
+    "start" : 1652152308947,
+    "stop" : 1652152308947,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

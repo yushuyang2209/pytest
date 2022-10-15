@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 10 11:11:48 CST 2022","Tue May 10 11:11:48 CST 2022","0","testcase.product","test_mashang","TestMashang1","","","test_02_xingyao",""
+"passed","Tue May 10 11:11:48 CST 2022","Tue May 10 11:11:48 CST 2022","1","testcase.product","test_mashang","TestMashang1","","","test_01_baili",""
+"failed","Tue May 10 11:11:48 CST 2022","Tue May 10 11:11:48 CST 2022","1","testcase.user","test_mashang2","TestMashang2","","","test_01_weiwei",""

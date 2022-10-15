@@ -1,0 +1,95 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "nj-yushuyang",
+    "children" : [ {
+      "name" : "20936-MainThread",
+      "children" : [ {
+        "name" : "test_02_xingyao",
+        "uid" : "b9713e3028a01e54",
+        "parentUid" : "57588990fe084d6dcb5bab2ae20404d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652152308947,
+          "stop" : 1652152308947,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_baili",
+        "uid" : "bc4e15006b4eb4e9",
+        "parentUid" : "57588990fe084d6dcb5bab2ae20404d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652152308937,
+          "stop" : 1652152308938,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_weiwei",
+        "uid" : "8779609e9a3f1702",
+        "parentUid" : "57588990fe084d6dcb5bab2ae20404d9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652152308971,
+          "stop" : 1652152308972,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57588990fe084d6dcb5bab2ae20404d9"
+    }, {
+      "name" : "9896-MainThread",
+      "children" : [ {
+        "name" : "test_01_baili",
+        "uid" : "4b9214462662867d",
+        "parentUid" : "350a30739db3a66219311edb4f25f6b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652151806196,
+          "stop" : 1652151806196,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_xingyao",
+        "uid" : "5204f0a809589c9c",
+        "parentUid" : "350a30739db3a66219311edb4f25f6b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652151806209,
+          "stop" : 1652151806209,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_weiwei",
+        "uid" : "5f39cf9be66b7627",
+        "parentUid" : "350a30739db3a66219311edb4f25f6b1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1652151806241,
+          "stop" : 1652151806241,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "350a30739db3a66219311edb4f25f6b1"
+    } ],
+    "uid" : "48cd498e5db38e17aacdd8898d16373a"
+  } ]
+}

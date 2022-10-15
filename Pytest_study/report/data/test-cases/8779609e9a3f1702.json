@@ -1,0 +1,131 @@
+{
+  "uid" : "8779609e9a3f1702",
+  "name" : "test_01_weiwei",
+  "fullName" : "testcase.user.test_mashang2.TestMashang2#test_01_weiwei",
+  "historyId" : "cb7bf6136671ace7077f2d090202dd13",
+  "time" : {
+    "start" : 1652152308971,
+    "stop" : 1652152308972,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2\n  +1\n  -2",
+  "statusTrace" : "self = <testcase.user.test_mashang2.TestMashang2 object at 0x000001B5117CCEF0>\nall_fixture = None, user_fixture = None\n\n    def test_01_weiwei(self,all_fixture,user_fixture):\n    \tprint('\\n测试微微')\n    \tprint(user_fixture)\n    \tprint(all_fixture)\n>   \tassert 1==2\nE    assert 1 == 2\nE      +1\nE      -2\n\ntestcase\\user\\test_mashang2.py:10: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "all_fixture",
+    "time" : {
+      "start" : 1652152308970,
+      "stop" : 1652152308970,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "user_fixture",
+    "time" : {
+      "start" : 1652152308971,
+      "stop" : 1652152308971,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "all_fixture::0",
+    "time" : {
+      "start" : 1652152309098,
+      "stop" : 1652152309098,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "user_fixture::0",
+    "time" : {
+      "start" : 1652152309092,
+      "stop" : 1652152309092,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.user"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMashang2"
+  }, {
+    "name" : "host",
+    "value" : "nj-yushuyang"
+  }, {
+    "name" : "thread",
+    "value" : "20936-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.user.test_mashang2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f39cf9be66b7627",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 2\n  +1\n  -2",
+      "time" : {
+        "start" : 1652151806241,
+        "stop" : 1652151806241,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8779609e9a3f1702.json",
+  "parameterValues" : [ ]
+}

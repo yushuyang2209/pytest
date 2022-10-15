@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase.product",
+    "children" : [ {
+      "name" : "test_mashang",
+      "children" : [ {
+        "name" : "TestMashang1",
+        "children" : [ {
+          "name" : "test_01_baili",
+          "uid" : "bc4e15006b4eb4e9",
+          "parentUid" : "d8af84e24d15046e807fc2b67f61499a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652152308937,
+            "stop" : 1652152308938,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_02_xingyao",
+          "uid" : "b9713e3028a01e54",
+          "parentUid" : "d8af84e24d15046e807fc2b67f61499a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652152308947,
+            "stop" : 1652152308947,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d8af84e24d15046e807fc2b67f61499a"
+      } ],
+      "uid" : "a1db2ba5f8d8e321ca853e13a656d574"
+    } ],
+    "uid" : "c63b1f201272fbad7997e6f9525b37f5"
+  }, {
+    "name" : "testcase.user",
+    "children" : [ {
+      "name" : "test_mashang2",
+      "children" : [ {
+        "name" : "TestMashang2",
+        "children" : [ {
+          "name" : "test_01_weiwei",
+          "uid" : "8779609e9a3f1702",
+          "parentUid" : "f88b7bc8892de67067b6ce98b895ba82",
+          "status" : "failed",
+          "time" : {
+            "start" : 1652152308971,
+            "stop" : 1652152308972,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f88b7bc8892de67067b6ce98b895ba82"
+      } ],
+      "uid" : "d428d80d63e3e800526bf30b8975fe23"
+    } ],
+    "uid" : "04dd22b1baabb37cf3f0ba298c158e20"
+  } ]
+}

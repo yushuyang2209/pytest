@@ -1,0 +1,124 @@
+{
+  "uid" : "b9713e3028a01e54",
+  "name" : "test_02_xingyao",
+  "fullName" : "testcase.product.test_mashang.TestMashang1#test_02_xingyao",
+  "historyId" : "9ddc3d479c9219ad848ce97b6536663e",
+  "time" : {
+    "start" : 1652152308947,
+    "stop" : 1652152308947,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "product_fixture",
+    "time" : {
+      "start" : 1652152308946,
+      "stop" : 1652152308946,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "all_fixture",
+    "time" : {
+      "start" : 1652152308946,
+      "stop" : 1652152308946,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "product_fixture::0",
+    "time" : {
+      "start" : 1652152308954,
+      "stop" : 1652152308954,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "all_fixture::0",
+    "time" : {
+      "start" : 1652152308948,
+      "stop" : 1652152308948,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.product"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestMashang1"
+  }, {
+    "name" : "host",
+    "value" : "nj-yushuyang"
+  }, {
+    "name" : "thread",
+    "value" : "20936-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.product.test_mashang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5204f0a809589c9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652151806209,
+        "stop" : 1652151806209,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9713e3028a01e54.json",
+  "parameterValues" : [ ]
+}
